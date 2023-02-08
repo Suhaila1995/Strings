@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author fsba
+ *
+ */
+module StringsProgram {
+}
